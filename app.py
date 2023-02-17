@@ -1,9 +1,6 @@
 import pandas as pd
 import streamlit as st 
 # import numpy as np
-from statsmodels.regression.linear_model import OLSResults
-model = OLSResults.load("model.pickle")
-
 import matplotlib.pyplot as plt
 from sqlalchemy import create_engine
 
