@@ -1,7 +1,7 @@
 import pandas as pd
 import streamlit as st 
-# import numpy as np
-import matplotlib.pyplot as plt
+import numpy as np
+import matplotlib.pyplot as 
 from sqlalchemy import create_engine
 
 
@@ -89,3 +89,12 @@ def main():
                            
 if __name__=='__main__':
     main()
+
+    
+    
+    
+    
+    
+    
+    
+    
